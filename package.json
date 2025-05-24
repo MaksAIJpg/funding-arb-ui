@@ -1,6 +1,5 @@
-
 {
-  "name": "funding-dashboard",
+  "name": "funding-arb-ui",
   "version": "1.0.0",
   "private": true,
   "scripts": {
